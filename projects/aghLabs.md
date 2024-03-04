@@ -15,7 +15,7 @@ summary: "Main page with all repositories created during studies"
 During my studies, I created many repositories with various interesting topics and assignments. I would like them to be available here so that the effort invested can be seen.
 
 <div class="text-center p-4">
-  <img height="300" src="../img/agh/computer.jpg" class="img-thumbnail" >
+  <img height="300" width="300" src="../img/agh/computer.jpg" class="img-thumbnail" >
 </div>
 
 ## Term 1:
@@ -27,7 +27,7 @@ The subject involved familiarizing with the basics of algorithmics. It covered t
 Source: <a href="https://github.com/23adrian2300/CPP_projekt-AGH">AGH/IntroductionToComputerScience</a>
 
 <div class="text-center p-4">
-  <img height="300" src="../img/agh/programowanie.jpg" class="img-thumbnail" >
+  <img height="300" width="300" src="../img/agh/programowanie.jpg" class="img-thumbnail" >
 </div>
 
 ## Term 2:
@@ -45,7 +45,7 @@ Imperative Programming focused on learning the basics of the C language. It cove
 Source: <a href="https://github.com/23adrian2300/PI-AGH">AGH/ImperativeProgramming</a>
 
 <div class="text-center p-4">
-  <img height="300" src="../img/agh/bazy.jpeg" class="img-thumbnail" >
+  <img height="300" width="300" src="../img/agh/bazy.jpeg" class="img-thumbnail" >
 </div>
 
 ## Term 3:
@@ -81,7 +81,7 @@ The subject concentrated on learning elements of the Haskell language. During th
 Source: <a href="https://github.com/23adrian2300/ProgramowanieFunkcyjne-AGH">AGH/FunctionalProgramming</a>
 
 <div class="text-center p-4">
-  <img height="300" src="../img/agh/algo.jpg" class="img-thumbnail" >
+  <img height="300" width="300" src="../img/agh/algo.jpg" class="img-thumbnail" >
 </div>
 
 ## Term 4:
@@ -123,7 +123,7 @@ Database focused on introducing the technology of developing database applicatio
 Source: <a href="https://github.com/23adrian2300/BazyDanych_II-AGH">AGH/Database</a>
 
 <div class="text-center p-4">
-  <img height="300" src="../img/agh//sieci.jpg" class="img-thumbnail" >
+  <img height="300" width="300" src="../img/agh//sieci.jpg" class="img-thumbnail" >
 </div>
 
 ## Term 5:

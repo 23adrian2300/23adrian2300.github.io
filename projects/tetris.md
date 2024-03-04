@@ -21,7 +21,7 @@ Tetris is a final project for the 'Programming in C++' course. It was written wi
 
 
 It was also my first major project in C++. However, it wasn't very difficult due to the learning process in previous labs, the solutions of which can be found at the following link:
-<a href="https://github.com/23adrian2300/CPP-AGH">weatherApp/weather</a>
+<a href="https://github.com/23adrian2300/CPP-AGH">AGH/CppProgramming</a>
 
 An example of event handling code looks like this:
 
@@ -67,4 +67,4 @@ void Game::handleEvents()
 }
 ```
 
-Source: <a href="https://github.com/23adrian2300/CPP_projekt-AGH">weatherApp/weather</a>
+Source: <a href="https://github.com/23adrian2300/CPP_projekt-AGH">AGH/CPP_projekt/Tetris</a>

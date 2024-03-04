@@ -23,4 +23,4 @@ Tattler is a simple version of Twitter. To build this I am working with MongoDB 
 
 Currently, I plan to add the option to rate posts with likes and dislikes. Additionally, I am considering creating chats between users (friends) and later changing the appearance.
 
-Source: <a href="https://github.com/23adrian2300/NextJS_Project">weatherApp/weather</a>
+Source: <a href="https://github.com/23adrian2300/NextJS_Project">NextJS/Tattler</a>
