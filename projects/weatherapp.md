@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/weatherApp/weather.png
 title: "Weather App"
-date: 2023
+best: 3
 published: true
 labels:
   - Java

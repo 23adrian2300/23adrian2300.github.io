@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/agh/aghlogo.png
 title: "AGH Computer Science - repositories"
-date: 2024
+best: 5
 published: true
 labels:
   - AGH

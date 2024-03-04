@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/evolutionGenerator/evo_begin.png
 title: "Evolution Generator"
-date: 2022
+best: 1
 published: true
 labels:
   - Java
