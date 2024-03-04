@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tattler/tattle.png
+image: img/tattler/tattlenew.png
 title: "Tattler"
 date: 2024
 published: true
