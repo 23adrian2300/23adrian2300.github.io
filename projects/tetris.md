@@ -16,7 +16,6 @@ Tetris is a final project for the 'Programming in C++' course. It was written wi
 
 <div class="text-center p-4">
   <img height="300" src="../img/tetris/tetrisGame.png" class="img-thumbnail" >
-
 </div>
 
 
