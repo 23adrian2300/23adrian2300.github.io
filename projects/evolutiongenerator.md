@@ -4,6 +4,7 @@ type: project
 image: img/evolutionGenerator/evo_begin.png
 title: "Evolution Generator"
 best: 1
+date: 2022
 published: true
 labels:
   - Java

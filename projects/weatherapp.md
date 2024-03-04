@@ -4,6 +4,7 @@ type: project
 image: img/weatherApp/weather.png
 title: "Weather App"
 best: 3
+date: 2024
 published: true
 labels:
   - Java

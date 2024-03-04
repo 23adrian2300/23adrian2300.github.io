@@ -4,6 +4,7 @@ type: project
 image: img/tetris/tetris.png
 title: "Tetris"
 best: 4
+date: 2023
 published: true
 labels:
   - C++
