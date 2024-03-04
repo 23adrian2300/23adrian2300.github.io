@@ -2,11 +2,11 @@
   "basics": {
     "name": "Adrian Żerebiec",
     "label": "Student",
-    "picture": "https://github.com/23adrian2300/23adrian2300.github.io/img/me.jpg",
+    "picture": "https://github.com/23adrian2300/23adrian2300.github.io/blob/main/img/me.jpg",
     "email": "adrianzerebiec23@gmail.pl",
     "phone": "+48695137188",
     "website": "https://23adrian2300.github.io",
-    "summary":  "I am studying for a B.S. in Computer Science in the Faculty of Computer Science, Electronics and Telecommunications at the AGH University of Science and Technology. I expect to graduate in 2024.",
+    "summary":  "I am studying for a B.S. in Computer Science in the Faculty of Computer Science, Electronics and Telecommunications at the AGH University of Science and Technology. I expect to graduate in 2025.",
     "location": { "address": "", "postalCode": "30-056", "city": "Kraków", "countryCode": "PL", "region": "Małopolskie" },
     "profiles": [
       { "network": "github", "username": "23adrian2300", "url": "http://github.com/23adrian2300" },
@@ -24,94 +24,61 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "NextJS", "Python", "R", "Haskell", "HTML", "CSS" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "Windows", "Ubuntu", "Git/GitHub" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "AGH University of Science and Technology, PL",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2021-10-01",
       "endDate": "Present",
       "courses": [
+        "Algebra",
+        "Mathematical Analysis 1",
+        "Discrete Mathematics",
+        "Introduction to UNIX System",
+        "Introduction to Computer Science",
+        "Interpersonal Skills",
+        "Mathematical Analysis 2",
+        "Mathematical Logic",
+        "Data algorithms and structures",
+        "Physics I",
+        "Imperative Programming",
+        "Protection of intellectual property",
+        "English B2 course",
+        "Probability and statistics",
+        "Differential and Difference Equations",
+        "Physics 2",
+        "Introduction to Databases",
+        "Object Oriented Programming",
+        "Functional programming",
+        "Introduction to web techologies",
+        "Requirements and quality engineering",
+        "Automata and Formal Languages Theory",
+        "Computation Methods for Science and Technology",
+        "Digital technology",
+        "Operating Systems",
+        "Programming in Java Script",
+        "C++ programming",
+        "Object-oriented design",
+        "Database",
+        "Fundamentals of artificial intelligence",
+        "Computer Networks",
+        "Theory of Concurrency",
+        "Microprocessor Techniques",
+        "Computation and Complexity Theory",
+        "Cryptography",
+        "Computer graphics",
+        "Object-oriented technologies",
+        "UX of web applications"
       ]
-    }
-  ],
-  "work": [
-    {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
     }
   ]
+  
 }
