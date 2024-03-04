@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/tattler/tattleMain.jpg
+image: img/tattler/tattle.png
 title: "Tattler"
 date: 2024
 published: true
@@ -14,7 +14,7 @@ summary: "This is a project is my first time creating NextJS App"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/tattler/tattleMain.png" class="img-thumbnail" >
+  <img width="400" height="300" src="../img/tattler/tattleMain.png" class="img-thumbnail" >
 
 </div>
 

@@ -1,26 +1,69 @@
 ---
 layout: project
 type: project
-image: img/tattler/tattle.png
-title: "Tattler"
-date: 2024
+image: img/tetris/tetris.png
+title: "Tetris"
+date: 2023
 published: true
 labels:
-  - NextJS
-  - TailwindCSS
+  - C++
+  - SFML
   - Github
-summary: "This is a project is my first time creating NextJS App"
+summary: "SMFL Project for C++ Classes"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/tattler/tattleMain.png" class="img-thumbnail" >
+  <img height="300" src="../img/tetris/tetrisGame.png" class="img-thumbnail" >
 
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze. Events are held worldwide. The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high. The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided. The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center. having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center. Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Tetris is a final project for the 'Programming in C++' course. It was written with the help of the SFML library, which enables graphics and game creation. It also allows handling various types of events.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse. I started by programming the basics, such as sensor polling and motor actuation using interrupts. From there, I then programmed the basic PD controls for the motors of the mouse. The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight. I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm. From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes. We finished with the fastest mouse who finished the maze within our college.
+It was also my first major project in C++. However, it wasn't very difficult due to the learning process in previous labs, the solutions of which can be found at the following link:
+<a href="https://github.com/23adrian2300/CPP-AGH">weatherApp/weather</a>
 
-Here is some code that illustrates how we read values from the line sensors:
+An example of event handling code looks like this:
 
-Source: <a href="https://github.com/23adrian2300/NextJS_Project">weatherApp/weather</a>
+```cpp
+#include "game.hpp"
+
+void Game::handleEvents()
+{
+    float time = clock.getElapsedTime().asSeconds();
+    clock.restart();
+    timer += time;
+    auto event = make_shared<sf::Event>();
+    while (window->pollEvent(*event))
+    {
+        if (event->type == sf::Event::Closed)
+        {
+            window->close();
+        }
+
+        if (event->type == sf::Event::KeyPressed)
+        {
+            switch (event->key.code)
+            {
+            case sf::Keyboard::Up:
+                change = true;
+                break;
+            case sf::Keyboard::Right:
+                ++directionX;
+                break;
+            case sf::Keyboard::Left:
+                --directionX;
+                break;
+            default:
+                break;
+            }
+        }
+    }
+
+    if (sf::Keyboard::isKeyPressed(sf::Keyboard::Down))
+    {
+        delay = 0.03;
+    }
+}
+```
+
+Source: <a href="https://github.com/23adrian2300/CPP_projekt-AGH">weatherApp/weather</a>
