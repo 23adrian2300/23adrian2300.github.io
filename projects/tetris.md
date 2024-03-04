@@ -12,12 +12,14 @@ labels:
 summary: "SMFL Project for C++ Classes"
 ---
 
+Tetris is a final project for the 'Programming in C++' course. It was written with the help of the SFML library, which enables graphics and game creation. It also allows handling various types of events.
+
 <div class="text-center p-4">
   <img height="300" src="../img/tetris/tetrisGame.png" class="img-thumbnail" >
 
 </div>
 
-Tetris is a final project for the 'Programming in C++' course. It was written with the help of the SFML library, which enables graphics and game creation. It also allows handling various types of events.
+
 
 It was also my first major project in C++. However, it wasn't very difficult due to the learning process in previous labs, the solutions of which can be found at the following link:
 <a href="https://github.com/23adrian2300/CPP-AGH">weatherApp/weather</a>
