@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/evolutionGenerator/evo_begin.png
-title: "Weather App"
+title: "Evolution Generator"
 date: 2022
 published: true
 labels:
