@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/tattler/tattle.jpg
+image: img/tattler/tattleMain.jpg
 title: "Tattler"
 date: 2024
 published: true
 labels:
   - NextJS
   - TailwindCSS
-  - Github
+  - MongoDB
+  - Google Cloud
 summary: "This is a project is my first time creating NextJS App"
 ---
 
@@ -17,10 +18,10 @@ summary: "This is a project is my first time creating NextJS App"
 
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze. Events are held worldwide. The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high. The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided. The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center. having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center. Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+This is my first application written in Next.js. I was inspired by an excellent tutorial from the 'JavaScript Mastery' channel, which demonstrated the basics of how this framework works very well. I would like to develop and improve the project to make it very user-friendly.
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse. I started by programming the basics, such as sensor polling and motor actuation using interrupts. From there, I then programmed the basic PD controls for the motors of the mouse. The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight. I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm. From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes. We finished with the fastest mouse who finished the maze within our college.
+Tattler is a simple version of Twitter. To build this I am working with MongoDB and Google Cloud. User authentication was build with the Google Cloud. The user is added to the MongoDB database. Their name is automatically created, and the photo is fetched from their Google profile. The user can add new posts, and later edit or delete them. Additionally, there is an option to browse other profiles.
 
-Here is some code that illustrates how we read values from the line sensors:
+Currently, I plan to add the option to rate posts with likes and dislikes. Additionally, I am considering creating chats between users (friends) and later changing the appearance.
 
 Source: <a href="https://github.com/23adrian2300/NextJS_Project">weatherApp/weather</a>
