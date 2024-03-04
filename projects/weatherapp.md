@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ../img/wearherApp/wearher.png
+image: img/wearherApp/wearher.png
 title: "Weather App"
 date: 2023
 published: true
