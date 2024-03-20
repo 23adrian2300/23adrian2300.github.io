@@ -167,7 +167,7 @@ During this course, we learned about distributed systems. We got to know technol
 
 Source: <a href="https://github.com/23adrian2300/SR-AGH">AGH/DistributedSystems</a>
 
-### Code optimization for various architectures
+### "Code optimization for various architectures"
 
 This subject served to familiarize us with methods of code optimization.
 
