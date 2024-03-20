@@ -158,3 +158,17 @@ Source: <a href="https://github.com/23adrian2300/TechnikiMikroprocesorowe-AGH">A
 During computer graphics, we learned to model various things. As part of the course, we had to create a frog in the Maya program.
 
 Source: <a href="https://github.com/23adrian2300/GrafikaKomputerowa-AGH">AGH/ComputerGraphics</a>
+
+## Term 6:
+
+### "Distributed systems"
+
+During this course, we learned about distributed systems. We got to know technologies such as TCP/UDP, RestApi, Zookeeper, and similar ones.
+
+Source: <a href="https://github.com/23adrian2300/SR-AGH">AGH/DistributedSystems</a>
+
+### Code optimization for various architectures
+
+This subject served to familiarize us with methods of code optimization.
+
+Source: <a href="https://github.com/23adrian2300/OptymalizacjaKodu-AGH">AGH/CodeOptimizationForVariousArchitectures</a>
