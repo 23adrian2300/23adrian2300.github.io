@@ -29,21 +29,21 @@ As part of the work division, I was mainly assigned to backend tasks. There, I c
 On the main screen, you can see the loaded CSV file, and you can click on a column, save the entire file, or just individual columns.
 
 <div class="text-center p-4">
-  <img width="400" height="300" src="../img/data_explorer/main_screen.png" class="img-thumbnail" >
+  <img width="800" height="600" src="../img/data_explorer/main_screen.png" class="img-thumbnail" >
 
 </div>
 
 On the column screen, we see all parameters such as mean, median, etc. We can fill in empty cells or manually change them using the update option.
 
 <div class="text-center p-4">
-  <img width="400" height="300" src="../img/data_explorer/column_data.png" class="img-thumbnail" >
+  <img width="800" height="600" src="../img/data_explorer/column_data.png" class="img-thumbnail" >
 
 </div>
 
 We can also compare two columns, where we get the most important information about them in one place.
 
 <div class="text-center p-4">
-  <img width="400" height="300" src="../img/data_explorer/compare_data.png" class="img-thumbnail" >
+  <img width="800" height="600" src="../img/data_explorer/compare_data.png" class="img-thumbnail" >
 
 </div>
 
