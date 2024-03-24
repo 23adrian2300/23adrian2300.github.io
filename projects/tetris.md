@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tetris/tetris.png
 title: "Tetris"
-best: 4
+best: 5
 date: 2023
 published: true
 labels:
@@ -13,9 +13,14 @@ labels:
 summary: "SMFL Project for C++ Classes"
 ---
 
+## Description
 Tetris is a final project for the 'Programming in C++' course. It was written with the help of the SFML library, which enables graphics and game creation. It also allows handling various types of events.
 
+Source: <a href="https://github.com/23adrian2300/CPP_projekt-AGH">AGH/CPP_projekt/Tetris</a>
+
 SFML's Graphics module, encapsulated in Graphics.hpp, simplifies 2D graphics rendering across platforms, offering efficient rendering of sprites, textures, and primitives. With hardware acceleration support, it ensures smooth performance, while its intuitive API facilitates resource management for cleaner code. This versatility makes it ideal for various applications, from games to multimedia presentations.
+
+## App appearance
 
 <div class="text-center p-4">
   <img height="300" src="../img/tetris/tetrisGame.png" class="img-thumbnail" >
@@ -65,7 +70,6 @@ void Game::handleEvents()
     }
 }
 ```
-
+## Small rework of the project
 Recently, I decided to improve this project a bit. I added .h files and, above all, CMakeLists.txt files. Thanks to them, it's easy to compile the code in different environments. I prepared two variants, one is for Visual Studio and the other for CLion. They automatically download the required SFML library, eliminating the need to go through the installation process. Furthermore, I made some improvements to the code itself to better conform to prevailing standards.
 
-Source: <a href="https://github.com/23adrian2300/CPP_projekt-AGH">AGH/CPP_projekt/Tetris</a>
