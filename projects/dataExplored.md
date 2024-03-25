@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/data_explorer/data_logo.png
 title: "Data_explorer"
-best: 3
+best: 4
 date: 2024
 published: true
 labels:

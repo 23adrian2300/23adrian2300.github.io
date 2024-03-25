@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tattler/tattlenew.png
 title: "Tattler [in progress]"
-best: 2
+best: 3
 date: 2024
 published: true
 labels:
