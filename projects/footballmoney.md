@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/football/logo.png
 title: "Football-money"
-best: 6
+best: 2
 date: 2024
 published: true
 labels:
@@ -13,8 +13,8 @@ labels:
 summary: "This is a project created for distributed systems classes."
 ---
 
-
 ## Description
+
 The aim of the task is to create a simple web service that implements a certain complex functionality based on open services providing REST APIs. Create a service that:
 
 - provides the client with a static HTML page with a form to collect request parameters,
@@ -25,7 +25,6 @@ The aim of the task is to create a simple web service that implements a certain 
 
 Source: <a href="https://github.com/23adrian2300/Football-money">Python/Football-money</a>
 
-
 ## Solution
 
 I utilized the following APIs:
@@ -34,7 +33,7 @@ Without API_KEY:
 (For finding the most expensive football player)
 
 - https://transfermarkt-api.vercel.app/docs
-(For finding average min, max when converting amount to PLN)
+  (For finding average min, max when converting amount to PLN)
 
 - https://api.nbp.pl/
 - https://www.frankfurter.app/docs/
@@ -52,12 +51,10 @@ In my solution, there are two forms, one allowing to search for the most expensi
 
 ## App appearance
 
-
 <div class="text-center p-4">
   <img width="800" height="600" src="../img/football/footballmoney.png" class="img-thumbnail" >
 
 </div>
-
 
 <div class="text-center p-4">
   <img width="800" height="600" src="../img/football/football.png" class="img-thumbnail" >
