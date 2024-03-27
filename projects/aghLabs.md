@@ -159,6 +159,12 @@ During computer graphics, we learned to model various things. As part of the cou
 
 Source: <a href="https://github.com/23adrian2300/GrafikaKomputerowa-AGH">AGH/ComputerGraphics</a>
 
+### ""Object-Oriented Technologies"
+
+During this course, we developed skills acquired in previous classes. Additionally, we learned about dependency injection, persistence patterns, utilizing the Spring framework, JavaFX, and JavaRX.
+
+Source: <a href="https://github.com/23adrian2300/TO-AGH">AGH/ObjectOrientedTechnologies</a>
+
 ## Term 6:
 
 ### "Distributed systems"
